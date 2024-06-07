@@ -1,17 +1,13 @@
-function Mybutton() {
-  return (
-      <button>
-        Button
-      </button>
-  );
-}
+import { BrowserRouter as Router} from 'react-router-dom';
+import Header from './components/Header';
 
 export default function MyApp() {
   return (
-      <div>
-        <h1>Hello, Baitau!</h1>
-        <MyButton />
-      </div>
+    <div id="app">
+    <Router>
+      <Header />
+    </Router>
+  </div>
   )
 }
 

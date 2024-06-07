@@ -1,0 +1,27 @@
+.navigation {
+    display: flex;
+    justify-content: right ; 
+    width: 100%;
+  }
+.navigation ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    
+}
+.navigation li {
+    margin-right: 40px;
+}
+
+
+.navigation a {
+    text-decoration: none;
+    color: #000000;
+    /* font-weight: bold; */
+}
+
+.lang {
+    font-size: 12px;    
+}
+
