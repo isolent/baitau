@@ -11,6 +11,7 @@
   }
   
   .overlay-text {
+    width: 500px;
     position: absolute;
     top: 20%; 
     left: 10%; 
