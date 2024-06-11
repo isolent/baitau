@@ -14,14 +14,12 @@
     margin-right: 40px;
 }
 
-
 .navigation a {
     text-decoration: none;
     color: #000000;
-    /* font-weight: bold; */
 }
 
 .lang {
-    font-size: 12px;    
+    font-size: 12px; 
 }
 

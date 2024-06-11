@@ -30,7 +30,7 @@ function Navigation() {
         <li>
           <Link to="/">Инфраструктура</Link>
         </li>
-        <li>
+        <li> 
           <Link to="/">Партнеры</Link>
         </li>
         <li>

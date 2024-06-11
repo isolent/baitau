@@ -1,0 +1,24 @@
+/* .welcome-block{
+
+} */
+.image-container {
+    position: relative;
+  }
+  
+  .overlay-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the container */
+  }
+  
+  .overlay-text {
+    position: absolute;
+    top: 20%; /* Center vertically */
+    left: 40%; 
+    transform: translate(-50%, -50%); /* Offset by 50% of its width/height to center */
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+  }
+  
