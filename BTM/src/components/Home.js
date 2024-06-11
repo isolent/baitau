@@ -6,20 +6,14 @@ function Home() {
     <div className="image-container">
      <img src="/images/photo.png" alt="Sample" className="overlay-image" style={{ width: 1450}}/>
       <div className="overlay-text">
-         <h1>ЛИДЕРЫ В ДОБЫЧЕ И ПРОИЗВОДСТВЕ ЦВЕТНЫХ МЕТАЛЛОВ</h1></div>
+         <p className='big-text'>ЛИДЕРЫ В ДОБЫЧЕ <br/>
+            И ПРОИЗВОДСТВЕ <br/>
+            ЦВЕТНЫХ <br/> МЕТАЛЛОВ</p>
+            <p className='line'>____________________________________________________</p>
+            <p className='welcome-text'> Добро пожаловать в мир качества и <br/> надежности!
+          </p>
+            </div>
     </div>
-    // <div className="home-page">
-    //   <div className="welcome">
-    //     <div className="welcome-block">
-    //       <h1>ЛИДЕРЫ В ДОБЫЧЕ И ПРОИЗВОДСТВЕ ЦВЕТНЫХ МЕТАЛЛОВ</h1>
-    //       <p > Добро пожаловать в мир качества и надежности!
-    //       </p>
-    //     </div>
-    //   </div>
-    //   <div className="image-container">
-    //     <img src="/images/photo.png" alt="Изображение" style={{ width: 1450}} />
-    //   </div>
-    // </div>
   );
 }
 

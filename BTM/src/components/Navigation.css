@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 .navigation {
     display: flex;
     justify-content: right ; 
     width: 100%;
+    font-family: 'Montserrat', sans-serif;
   }
 .navigation ul {
     list-style-type: none;
