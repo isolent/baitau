@@ -1,0 +1,25 @@
+.stage-card {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .stage-card__image {
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+  }
+  
+  .stage-card__title {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .stage-card__description {
+    font-size: 1em;
+    color: #666;
+  }
+  

@@ -4,7 +4,7 @@ import React from 'react';
 function Home() {
   return (
     <div className="image-container">
-     <img src="/images/photo.png" alt="Sample" className="overlay-image" style={{ width: 1450}}/>
+     <img src="/images/photo.png" alt="Sample" className="overlay-image" />
       <div className="overlay-text">
          <p className='big-text'>ЛИДЕРЫ В ДОБЫЧЕ <br/>
             И ПРОИЗВОДСТВЕ <br/>
