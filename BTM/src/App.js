@@ -3,6 +3,7 @@ import Header from './components/Header';
 import Home from './components/Home';
 import MiningStages from './components/MiningStages';
 import About from './components/About';
+import Geography from "./components/Geography";
 
 export default function MyApp() {
   return (
@@ -18,7 +19,7 @@ export default function MyApp() {
         </main>
       </div>
       <About />
-
+      <Geography />
 
 
     </Router>
