@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.infrastructure_page {
+    margin-left: 75px;
+}
+
+.photo-container {
+    display: flex;
+    margin-top: 60px;
+}
+
+.item {
+    flex: 1 1 auto;
+    margin: 0 5px;
+}
+
+.map_text{
+    padding: 70px;
+}
+
+.imgtext {
+    margin-top: 20px;
+}

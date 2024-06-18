@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+.map-page {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.mapimg{
+    /*width: 400px;*/
+    margin-right: 400px;
+    margin-bottom: 250px;
+}
+
+.map_text{
+    padding: 70px;
+}
