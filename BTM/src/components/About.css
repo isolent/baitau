@@ -22,13 +22,13 @@
   .aboutimg{
       width: 50px;
       margin-right: 50px;
-      margin-top: -300px;
+      margin-top: -350px;
   }
 
   .about-block{
-      width: 800px;
+      width: 650px;
       line-height: 40px;
       margin-left: 70px;
-      font-size: 20px;
+      font-size: 18px;
       font-family: Montserrat;
   }

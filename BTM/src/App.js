@@ -3,9 +3,11 @@ import Header from './components/Header';
 import Home from './components/Home';
 import MiningStages from './components/MiningStages';
 import About from './components/About';
+
 import Map from './components/Map';
 import Infrastructure from "./components/Infrastructure";
 import Advantages from "./components/Advantages";
+import Geography from "./components/Geography";
 
 export default function MyApp() {
   return (
@@ -24,6 +26,7 @@ export default function MyApp() {
       <Map />
       <Infrastructure/>
       <Advantages />
+      <Geography />
 
 
 
