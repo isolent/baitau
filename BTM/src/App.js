@@ -23,10 +23,9 @@ export default function MyApp() {
         </main>
       </div>
       <About />
-      <Map />
+      <Geography />
       <Infrastructure/>
       <Advantages />
-      <Geography />
 
 
 
