@@ -7,7 +7,6 @@ import About from './components/About';
 import Map from './components/Map';
 import Infrastructure from "./components/Infrastructure";
 import Advantages from "./components/Advantages";
-import Geography from "./components/Geography";
 
 export default function MyApp() {
   return (
@@ -26,8 +25,6 @@ export default function MyApp() {
       <Map />
       <Infrastructure/>
       <Advantages />
-      <Geography />
-
 
 
     </Router>
