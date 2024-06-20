@@ -20,8 +20,8 @@ body {
 
 .photo-container {
     display: flex;
-    justify-content: space-between;
-    margin-left: 150px;
+    justify-content: space-evenly;
+    margin-left: 145px;
     gap: 20px;
     flex-wrap: wrap;
     width: 80%;
@@ -52,9 +52,10 @@ body {
 }
 
 .card img {
-    width: 100%;
+    width: 90%;
     height: 200px;
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-left: 18px;
     object-fit: contain;
 }
 

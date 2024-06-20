@@ -1,0 +1,30 @@
+.vacancies-section {
+    margin-left: 70px;
+  }
+  
+  .vacancies-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    text-align: center;
+  }
+  
+  .vacancy-item {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    border: 1px solid #dcdcdc; /* Add border to the vacancy item */
+    border-radius: 5px;
+    width: 90%;
+  }
+  
+  .vacancy-title {
+    padding-left: 20px;
+    margin-left: 145px; 
+    text-align: center;
+    position: relative;
+  }
+  
