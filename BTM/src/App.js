@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import { BrowserRouter as Router} from 'react-router-dom';
 import Header from './components/Header';
 import Home from './components/Home';
 import MiningStages from './components/MiningStages';
@@ -9,6 +9,9 @@ import Geography from "./components/Geography";
 import Partners from "./components/Partners";
 import News from "./components/News";
 import Vacancies from "./components/Vacancies";
+import Licencies from "./components/Licencies";
+import Footer from "./components/Footer";
+import Contacts from "./components/Contacts";
 
 export default function MyApp() {
   return (
@@ -30,6 +33,9 @@ export default function MyApp() {
       <Partners />
       <News />
       <Vacancies />
+      <Licencies />
+      <Contacts />
+      <Footer />
 
 
     </Router>
