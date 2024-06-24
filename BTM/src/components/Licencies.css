@@ -1,0 +1,26 @@
+.licencies-page {
+    margin-left: 70px; 
+    padding-bottom: 40px  
+  }
+  
+  .licencies-text {
+    margin-bottom: 20px;
+  }
+  
+  .licencies-img {
+    width: 82.5%; /* Set the desired width of the slider */
+    max-width: 1200px; /* Optional: Set a maximum width */
+    margin-left: 100px;
+  }
+  
+  .slick-slide img {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  .slick-slide {
+    padding: 0 50px; /* Add horizontal padding to each slide */
+  }
+  

@@ -26,7 +26,6 @@ function Partners() {
           <div><img src="/images/partner2.png" alt="Изображение" /></div>
           <div><img src="/images/partner3.png" alt="Изображение" /></div>
           <div><img src="/images/partner1.png" alt="Изображение" /></div>
-
         </Slider>
       </div>
     </div>

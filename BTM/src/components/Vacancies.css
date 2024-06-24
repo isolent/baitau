@@ -1,8 +1,10 @@
 .vacancies-section {
+    margin-top: -50px;
     margin-left: 70px;
   }
   
   .vacancies-grid {
+    /* padding: 20px; */
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
